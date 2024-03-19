@@ -214,7 +214,7 @@ You will see a page like this.
 ![App Screenshot](https://miro.medium.com/v2/resize:fit:720/format:webp/1*7Y4SHQrZ0JOhIUE2wRVqyA.png)
 
 
-## Referência
+## Useful Links
 
  - [chat-ui](https://github.com/huggingface/chat-ui)
  - [chat](https://huggingface.co/chat/)
