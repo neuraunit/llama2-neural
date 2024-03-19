@@ -204,7 +204,7 @@ Running CHAT-UI
 npm run dev
 ```
 
-Open the URL in your browser, change YOUR-PUBLIC-IP with you ip sended by the NPU team.
+Open the URL in your browser, change YOUR-PUBLIC-IP with you ip sent by the NPU team.
 ```
 http://{YOUR-PUBLIC-IP}:5173/
 ```
